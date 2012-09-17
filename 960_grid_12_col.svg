@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="960" height="2000" version="1.0">
+  <sodipodi:namedview id="base" borderlayer="true" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" showguides="true" inkscape:guide-bbox="true">
+    <!-- Grids -->
+    <inkscape:grid id="g05" type="xygrid" visible="true" enabled="false" spacingx= "0.5px" spacingy= "0.5px" empspacing= "2" originx="10.5px" originy="10.5px"/>
+    <inkscape:grid id="g1"  type="xygrid" visible="true" enabled="true"  spacingx= "1px"   spacingy= "1px"   empspacing="20" originx="10px"   originy="10px"  />
+    <inkscape:grid id="g2"  type="xygrid" visible="true" enabled="false" spacingx= "2px"   spacingy= "2px"   empspacing="10" originx="10px"   originy="10px"  />
+    <inkscape:grid id="g4"  type="xygrid" visible="true" enabled="false" spacingx= "4px"   spacingy= "4px"   empspacing= "5" originx="10px"   originy="10px"  />
+    <inkscape:grid id="g5"  type="xygrid" visible="true" enabled="false" spacingx= "5px"   spacingy= "5px"   empspacing= "4" originx="10px"   originy="10px"  />
+    <inkscape:grid id="g10" type="xygrid" visible="true" enabled="false" spacingx="10px"   spacingy="10px"   empspacing= "2" originx="10px"   originy="10px"  />
+    <inkscape:grid id="g20" type="xygrid" visible="true" enabled="false" spacingx="20px"   spacingy="20px"   empspacing= "1" originx="10px"   originy="10px"  />
+    <!-- Guides -->
+    <sodipodi:guide orientation="1,0" position=  "0,0" id=  "x_0px"/>
+    <sodipodi:guide orientation="1,0" position= "10,0" id= "x_10px"/>
+    <sodipodi:guide orientation="1,0" position= "70,0" id= "x_70px"/>
+    <sodipodi:guide orientation="1,0" position= "80,0" id= "x_80px"/>
+    <sodipodi:guide orientation="1,0" position= "90,0" id= "x_90px"/>
+    <sodipodi:guide orientation="1,0" position="150,0" id="x_150px"/>
+    <sodipodi:guide orientation="1,0" position="160,0" id="x_160px"/>
+    <sodipodi:guide orientation="1,0" position="170,0" id="x_170px"/>
+    <sodipodi:guide orientation="1,0" position="230,0" id="x_230px"/>
+    <sodipodi:guide orientation="1,0" position="240,0" id="x_240px"/>
+    <sodipodi:guide orientation="1,0" position="250,0" id="x_250px"/>
+    <sodipodi:guide orientation="1,0" position="310,0" id="x_310px"/>
+    <sodipodi:guide orientation="1,0" position="320,0" id="x_320px"/>
+    <sodipodi:guide orientation="1,0" position="330,0" id="x_330px"/>
+    <sodipodi:guide orientation="1,0" position="390,0" id="x_390px"/>
+    <sodipodi:guide orientation="1,0" position="400,0" id="x_400px"/>
+    <sodipodi:guide orientation="1,0" position="410,0" id="x_410px"/>
+    <sodipodi:guide orientation="1,0" position="470,0" id="x_470px"/>
+    <sodipodi:guide orientation="1,0" position="480,0" id="x_480px"/>
+    <sodipodi:guide orientation="1,0" position="490,0" id="x_490px"/>
+    <sodipodi:guide orientation="1,0" position="550,0" id="x_550px"/>
+    <sodipodi:guide orientation="1,0" position="560,0" id="x_560px"/>
+    <sodipodi:guide orientation="1,0" position="570,0" id="x_570px"/>
+    <sodipodi:guide orientation="1,0" position="630,0" id="x_630px"/>
+    <sodipodi:guide orientation="1,0" position="640,0" id="x_640px"/>
+    <sodipodi:guide orientation="1,0" position="650,0" id="x_650px"/>
+    <sodipodi:guide orientation="1,0" position="710,0" id="x_710px"/>
+    <sodipodi:guide orientation="1,0" position="720,0" id="x_720px"/>
+    <sodipodi:guide orientation="1,0" position="730,0" id="x_730px"/>
+    <sodipodi:guide orientation="1,0" position="790,0" id="x_790px"/>
+    <sodipodi:guide orientation="1,0" position="800,0" id="x_800px"/>
+    <sodipodi:guide orientation="1,0" position="810,0" id="x_810px"/>
+    <sodipodi:guide orientation="1,0" position="870,0" id="x_870px"/>
+    <sodipodi:guide orientation="1,0" position="880,0" id="x_880px"/>
+    <sodipodi:guide orientation="1,0" position="890,0" id="x_890px"/>
+    <sodipodi:guide orientation="1,0" position="950,0" id="x_950px"/>
+    <sodipodi:guide orientation="1,0" position="960,0" id="x_960px"/>
+  </sodipodi:namedview>
+  <!-- Blocks -->
+  <g inkscape:label="grid_12" inkscape:groupmode="layer" id="layer0" sodipodi:insensitive="true">
+    <rect style="fill:#ffe5e5" width="60" height="2000" x= "10" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x= "90" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="170" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="250" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="330" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="410" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="490" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="570" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="650" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="730" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="810" y="0"/>
+    <rect style="fill:#ffe5e5" width="60" height="2000" x="890" y="0"/>
+  </g>
+  <g inkscape:groupmode="layer" id="layer1" inkscape:label="Layer 1"/>
+</svg>
